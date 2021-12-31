@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/Identity" Path="C:\Users\nguye\.nuget\packages\microsoft.aspnetcore.identity.ui\3.1.6\staticwebassets\V4\" />
+  <ContentRoot BasePath="_content/VideoOnDemand.Admin" Path="D:\Book\deploy\VideoOnDemand\VideoOnDemand.Admin\wwwroot\" />
+</StaticWebAssets>

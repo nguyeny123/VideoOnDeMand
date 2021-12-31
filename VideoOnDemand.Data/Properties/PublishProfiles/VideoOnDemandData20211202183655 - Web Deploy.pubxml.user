@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAyyLySzZsPkuIyMkuQ9DmmQAAAAACAAAAAAAQZgAAAAEAACAAAABZk7e4Ah+0cDKiJwjw3ZBcRFGWNd8Zry5m5SH6wjEBAQAAAAAOgAAAAAIAACAAAAC1iOwOmPh+6FTOsbnUlBNWKwVPumZHKL8f0T4Saa4YN4AAAAA7GZJPkNJE6FvRZhqBv0zKJRJPgsYoK+uV/wA4XalXdjYdMyYc/eVvYkjqn+MGOx1gs0dBhPuozqUAxR01M7GIJSSRrA01AgJgFyzVhVQ6iwemj5OytgF4bfSNmtOEUt6jfH2cgOT5AHZgdyrb0r7CUIkJUAP6UgH2ni7IUDB6J0AAAACQVRt2uiNOEtPfTiJ1x3PpZHC00voiMb97ZYGGuiqssXFS4wwsK1r7mPZ5aYExNMzRlwKQptKNeTHorTK5LKu1</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:videoondemand1.database.windows.net,1433%3bInitial Catalog=VideoOnDemand.UI_db%3bUser Id=ynguyen%40videoondemand1%3bPassword=Tt12356789%40</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="VideoOnDemand.Data.Data.VODContext">
+      <Value>Data Source=tcp:videoondemand1.database.windows.net,1433%3bInitial Catalog=VideoOnDemand.UI_db%3bUser Id=ynguyen%40videoondemand1%3bPassword=Tt12356789%40</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

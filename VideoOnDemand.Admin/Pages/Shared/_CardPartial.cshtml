@@ -1,0 +1,13 @@
+﻿@model VideoOnDemand.Admin.Models.CardViewModel
+
+<a href="@Model.Url" class="card" style="background-color: @Model.BackgroundColor">
+    <div class="card-content">
+        <div class="card-data">
+            <h3>@Model.Count</h3>
+            <p>@Model.Description</p>
+        </div>
+        <div  class = "card-icon">
+            <i class="fas fa-@Model.Icon.ToLower()"></i>
+        </div>
+    </div>
+</a>

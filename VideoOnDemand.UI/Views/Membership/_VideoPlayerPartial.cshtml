@@ -1,0 +1,39 @@
+﻿@model VideoViewModel
+    <div class="panel">
+        @if (Model.Video.Url != null)
+        {
+            <div id="video" class="video-margin">&nbsp;</div>
+            <div id="hiddenUrl" hidden="hidden">@Model.Video.Url</div>
+            <div id="hiddenImageUrl" hidden="hidden">
+                @Model.Video.Thumbnail
+            </div>
+            <video id="vid1"
+                   class="video-js vjs-default-skin "
+                   controls
+                   poster="@Model.Video.Thumbnail"
+                   width="560" height="315"
+                   data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube",
+                   "src": "@Model.Video.Url"}] }'>
+            </video>
+        }
+        <div class="panel-body">
+            <h2 class="text-dark">@Model.Video.Title</h2>
+            <p class="text-dark">
+                Lesson @Model.LessonInfo.LessonNumber/
+                @Model.LessonInfo.NumberOfLessons&nbsp;&nbsp;
+                @Model.Video.Duration minutes
+            </p>
+            <div class="media">
+                <div class="media-left">
+                    <img src="@Model.Course.CourseImageUrl">
+                </div>
+                <div class="media-body media-middle">
+                    <p>@Model.Course.CourseTitle</p>
+                </div>
+            </div>
+        </div>
+        <hr class="no-margin">
+        <div class="panel-body">
+            @Model.Video.Description
+        </div>
+    </div>

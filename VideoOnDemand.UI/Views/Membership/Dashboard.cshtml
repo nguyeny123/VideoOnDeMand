@@ -1,0 +1,26 @@
+﻿@model DashboardViewModel
+@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="membership top-margin">
+<h2 class="text-dark">Dashboard</h2>
+<hr class="thick margin">
+    @if (Model.Courses.Count == 0)
+    {
+    <h2 class="p-3 mb-2 bg-warning text-dark">There are no courses registered for your account,
+        please contact admin to register courses.
+    </h2>
+    }
+@foreach (var dashboardRow in Model.Courses)
+{
+<div class="row">
+    @foreach (var course in dashboardRow)
+    {
+        @await Html.PartialAsync("_CoursePanelPartial", course)
+    }
+</div>
+}
+</div>
+

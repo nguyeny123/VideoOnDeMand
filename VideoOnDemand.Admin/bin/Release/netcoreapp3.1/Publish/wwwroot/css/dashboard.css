@@ -1,0 +1,33 @@
+﻿.card {
+    margin: 1px;
+    display: block;
+    position: relative;
+    float: left;
+    width: 24%;
+    min-width: 200px;
+    color: #fff !important;
+    text-decoration: none;
+    border: none;
+}
+.card:hover {
+    text-decoration: none;
+    opacity: .8;
+}
+.card-content {
+    padding: 15px;
+}
+.card-data h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.card-data p {
+    margin-bottom: 0;
+}
+.card-icon {
+    position: absolute;
+    right: 25px;
+    top: 20%;
+    font-size: 35px;
+    opacity: .2;
+}

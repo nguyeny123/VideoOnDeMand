@@ -1,0 +1,244 @@
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.exe
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csprojAssemblyReference.cache
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.AssemblyInfoInputs.cache
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.AssemblyInfo.cs
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.RazorTargetAssemblyInfo.cache
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\staticwebassets\VideoOnDemand.Data.StaticWebAssets.Manifest.cache
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\staticwebassets\VideoOnDemand.Data.StaticWebAssets.xml
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csproj.CopyComplete
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.deps.json
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.runtimeconfig.json
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.runtimeconfig.dev.json
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.pdb
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.dll
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.pdb
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.genruntimeconfig.cache
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csproj.CoreCompileInputs.cache
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.MvcApplicationPartsAssemblyInfo.cache
+D:\Book\Jonas Fagerberg\app\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.exe
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.deps.json
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.runtimeconfig.json
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.runtimeconfig.dev.json
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.pdb
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csprojAssemblyReference.cache
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.AssemblyInfoInputs.cache
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.AssemblyInfo.cs
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.RazorTargetAssemblyInfo.cache
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csproj.CopyComplete
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\staticwebassets\VideoOnDemand.Data.StaticWebAssets.Manifest.cache
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\staticwebassets\VideoOnDemand.Data.StaticWebAssets.xml
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.dll
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.pdb
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.genruntimeconfig.cache
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Book\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.VideoOnDemandData20211202183655 - Web Deploy.json
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csproj.CoreCompileInputs.cache
+D:\Book\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.MvcApplicationPartsAssemblyInfo.cache
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.VideoOnDemandData20211202183655 - Web Deploy.json
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.exe
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.deps.json
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.runtimeconfig.json
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.runtimeconfig.dev.json
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.pdb
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csprojAssemblyReference.cache
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.AssemblyInfoInputs.cache
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.AssemblyInfo.cs
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csproj.CoreCompileInputs.cache
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.MvcApplicationPartsAssemblyInfo.cache
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.RazorTargetAssemblyInfo.cache
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csproj.CopyComplete
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\staticwebassets\VideoOnDemand.Data.StaticWebAssets.Manifest.cache
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\staticwebassets\VideoOnDemand.Data.StaticWebAssets.xml
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.dll
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.pdb
+D:\Book\deploy\VideoOnDemand\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.genruntimeconfig.cache
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.VideoOnDemandData20211202183655 - Web Deploy.json
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.exe
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.deps.json
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.runtimeconfig.json
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.runtimeconfig.dev.json
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\VideoOnDemand.Data.pdb
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csprojAssemblyReference.cache
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.AssemblyInfoInputs.cache
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.AssemblyInfo.cs
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.RazorTargetAssemblyInfo.cache
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csproj.CopyComplete
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\staticwebassets\VideoOnDemand.Data.StaticWebAssets.Manifest.cache
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\staticwebassets\VideoOnDemand.Data.StaticWebAssets.xml
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.pdb
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.genruntimeconfig.cache
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.csproj.CoreCompileInputs.cache
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\obj\Debug\netcoreapp3.1\VideoOnDemand.Data.MvcApplicationPartsAssemblyInfo.cache
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Book\deploy\VideoOnDemandtest\VideoOnDemand.Data\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll

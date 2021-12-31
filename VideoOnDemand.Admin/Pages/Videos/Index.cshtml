@@ -1,0 +1,68 @@
+﻿@page
+@using Microsoft.AspNetCore.Identity
+@using VideoOnDemand.Data.Data.Entities
+@inject SignInManager<User> SignInManager
+@model VideoOnDemand.Admin.Pages.Videos.IndexModel
+@{
+    ViewData["Title"] = "Videos";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+@if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+{
+    <div class="row">
+        <div class="col-md-12">
+            <h2>@ViewData["Title"]</h2>
+            <status-message message="@Model.StatusMessage"
+                            message-type="success"></status-message>
+            <page-button path="Videos/Create" Bootstrap-style="primary"
+                         description="Create New"></page-button>
+            <page-button path="Admin" Bootstrap-style="warning"
+                         description="Dashboard"></page-button>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td>Title</td>
+                        <td>Description</td>
+                        <th>Url</th>
+                        <th>Course</th>
+                        <th>Module</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Items)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem =>item.Title)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem =>item.Description)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem =>item.Url)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem =>item.Course.Title)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem =>item.Module.Title)
+                            </td>
+                            <td class="button-col-width">
+                                <page-button path="Videos/Edit"
+                                             Bootstrap-style="success"
+                                             font="edit" id="@item.Id">
+                                </page-button>
+                                <page-button path="Videos/Delete"
+                                             Bootstrap-style="danger"
+                                             font="trash-alt" id="@item.Id">
+                                </page-button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}

@@ -1,0 +1,31 @@
+﻿.video-content .media-left img {
+    height: 40px;
+}
+
+.video-content .panel {
+    border: none;
+    border-radius: 0px;
+    padding-bottom: 10px;
+}
+
+.video-content .media-body {
+    padding-left: 10px;
+}
+
+.coming-up .btn-group {
+    width: 100%;
+}
+
+    .coming-up .btn-group .btn {
+        width: 50%;
+    }
+
+.coming-up .img-container {
+    width: 200px;
+    
+}
+
+.coming-up .img-responsive {
+    width: 100%;
+}
+
